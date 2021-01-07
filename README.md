@@ -1,3 +1,3 @@
-# IFTS_SMD_4.0_python
-#### primo commit
-##### speriamo bene!
+# Corso IFTS Smart Manufacturer Developer 4.0
+## Python
+
