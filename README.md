@@ -1,3 +1,3 @@
-# Corso IFTS Smart Manufacturer Developer 4.0
-## Python
+# Google foobar challenge
+## These are the two first exercises of the foobar challenge and they are written in Python
 
